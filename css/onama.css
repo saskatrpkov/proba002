@@ -1,0 +1,30 @@
+.left img{
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+    margin-left: 15px;
+}
+
+.about-content{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.left{
+    width: 30%;
+}
+
+.right{
+    width: 60%;
+}
+
+h2{
+    text-align: center;
+    font-size: 35px;
+}
+
+.text{
+    text-align: justify;
+}
